@@ -1,6 +1,8 @@
 # SuborbitaLauncher
 A quickly-written launcher for Launch Director that lets you change which map is loaded on "Continue"
 
+Should be placed in the `Win64` directory to run
+
 VS2022 / .NET 4.5.2
 
 Project History:
